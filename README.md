@@ -7,3 +7,8 @@
 # pull issues 
 # push 
 # and so on
+
+
+# 
+a practice repo for the 3 hrs foundation lab
+
