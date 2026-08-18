@@ -15,3 +15,12 @@ a practice repo for the 3 hrs foundation lab
 
 
 # see issues for my foundation check
+
+
+# About
+# Learning Goals
+# Topics Practiced
+# Workflow
+# Notes
+# Next Steps
+# Resources
